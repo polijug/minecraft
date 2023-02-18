@@ -1,0 +1,139 @@
+[18:52:58] [ServerMain/INFO]: Building unoptimized datafixer
+[18:53:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:53:05] [ServerMain/INFO]: Loaded 7 recipes
+[18:53:06] [ServerMain/INFO]: Loaded 1179 advancements
+[18:53:06] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[18:53:06] [Server thread/INFO]: Loading properties
+[18:53:06] [Server thread/INFO]: Default game type: SURVIVAL
+[18:53:06] [Server thread/INFO]: Generating keypair
+[18:53:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:53:07] [Server thread/INFO]: Using default channel type
+[18:53:07] [Server thread/INFO]: Preparing level "Verzuv_svet"
+[18:53:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[18:53:31] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[18:53:31] [Server thread/INFO]: Time elapsed: 18943 ms
+[18:53:31] [Server thread/INFO]: Done (24.056s)! For help, type "help"
+[19:07:36] [User Authenticator #1/INFO]: UUID of player harshcatpirate is a786e70c-f84b-4474-bb41-46602d26f5a5
+[19:07:36] [Server thread/INFO]: harshcatpirate[/80.243.105.206:45725] logged in with entity id 37 at (353.28122866562387, 60.0, 245.18586105520382)
+[19:07:36] [Server thread/INFO]: harshcatpirate joined the game
+[19:07:41] [User Authenticator #2/INFO]: UUID of player Erzoslav is 4a19c7fe-9250-443e-9476-eace065da444
+[19:07:41] [Server thread/INFO]: Erzoslav[/127.0.0.1:63276] logged in with entity id 174 at (352.47416824359107, 60.0, 245.32810364973994)
+[19:07:41] [Server thread/INFO]: Erzoslav joined the game
+[19:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6628ms or 132 ticks behind
+[19:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19:12:30] [Server thread/INFO]: Erzoslav was shot by Skeleton
+[19:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19:12:45] [Server thread/INFO]: [Erzoslav: Teleported Erzoslav to harshcatpirate]
+[19:12:45] [Server thread/WARN]: Erzoslav moved too quickly! 336.30061952923353,-8.0,244.4966415593387
+[19:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4316ms or 86 ticks behind
+[19:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[19:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[19:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4466ms or 89 ticks behind
+[19:41:00] [Server thread/INFO]: Erzoslav has made the advancement [Tactical Fishing]
+[19:41:47] [Server thread/INFO]: harshcatpirate has made the advancement [Tactical Fishing]
+[19:45:57] [Server thread/INFO]: Erzoslav drowned
+[19:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:46:02] [Server thread/INFO]: [Erzoslav: Teleported Erzoslav to harshcatpirate]
+[19:49:13] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=349, y=48, z=186} gp{x=349, y=49, z=186}
+[19:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=350, y=48, z=186} gp{x=350, y=49, z=186}
+[19:50:29] [Server thread/INFO]: harshcatpirate was shot by Skeleton
+[19:51:11] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[19:51:12] [Server thread/WARN]: harshcatpirate moved too quickly! 286.40653934967867,-45.0,286.49584828998474
+[19:56:06] [Server thread/INFO]: harshcatpirate was shot by Skeleton
+[19:56:11] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[19:58:01] [Server thread/INFO]: <Erzoslav> 307 28 279
+[19:58:19] [Server thread/INFO]: [Erzoslav: Teleported Erzoslav to 307.500000, 28.000000, 279.500000]
+[19:58:31] [Server thread/INFO]: [Erzoslav: Teleported 2 entities to 307.500000, 28.000000, 279.500000]
+[20:00:39] [Server thread/INFO]: harshcatpirate fell from a high place
+[20:00:45] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[20:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
+[20:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
+[20:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[20:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[20:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:04:57] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[20:04:57] [Server thread/WARN]: harshcatpirate moved too quickly! 203.47806301782424,0.0,-191.2016578183878
+[20:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[20:09:25] [Server thread/INFO]: [Erzoslav: Set the time to 1000]
+[20:17:40] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[20:23:16] [Server thread/INFO]: [Erzoslav: Set the time to 1000]
+[20:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[20:29:36] [Server thread/INFO]: [Erzoslav: Teleported 2 entities to 302.500000, 72.000000, 292.500000]
+[20:29:36] [Server thread/WARN]: Erzoslav moved too quickly! -384.3108544541817,9.0,19.107875360173807
+[20:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20:32:18] [Server thread/INFO]: [Erzoslav: Gave 4 [Name Tag] to harshcatpirate]
+[20:54:56] [Server thread/INFO]: Erzoslav has made the advancement [Sweet Dreams]
+[20:55:00] [Server thread/INFO]: harshcatpirate has made the advancement [Sweet Dreams]
+[21:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=316, y=23, z=272} gp{x=316, y=22, z=271}
+[21:04:31] [Server thread/INFO]: harshcatpirate fell from a high place
+[21:04:53] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to 307.500000, 28.000000, 279.500000]
+[21:10:57] [Server thread/INFO]: harshcatpirate burned to death
+[21:11:04] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to 307.500000, 28.000000, 279.500000]
+[21:11:13] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[21:12:22] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to 307.500000, 28.000000, 279.500000]
+[21:14:53] [Server thread/INFO]: harshcatpirate tried to swim in lava
+[21:14:56] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to 307.500000, 28.000000, 279.500000]
+[21:15:14] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to 307.500000, 28.000000, 279.500000]
+[21:15:14] [Server thread/WARN]: harshcatpirate moved too quickly! -39.988311403766886,-31.0,39.91434828013968
+[21:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[21:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[21:26:49] [Server thread/INFO]: Erzoslav was blown up by Creeper
+[21:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21:29:17] [Server thread/INFO]: [Erzoslav: Teleported harshcatpirate to Erzoslav]
+[21:32:19] [Server thread/INFO]: Erzoslav was shot by Skeleton
+[21:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21:32:36] [Server thread/INFO]: harshcatpirate was shot by Skeleton
+[21:32:41] [Server thread/INFO]: [Erzoslav: Teleported Erzoslav to harshcatpirate]
+[21:35:36] [Server thread/INFO]: Erzoslav has made the advancement [Hot Stuff]
+[21:40:47] [Server thread/INFO]: Erzoslav has made the advancement [Suit Up]
+[21:41:11] [Server thread/INFO]: harshcatpirate has made the advancement [Suit Up]
+[21:50:23] [Server thread/INFO]: [Erzoslav: Teleported Erzoslav to harshcatpirate]
+[21:50:23] [Server thread/WARN]: Erzoslav moved too quickly! 61.49731845030374,53.0,-66.44128000666242
+[21:50:23] [Server thread/WARN]: Erzoslav moved too quickly! 61.49731845030374,53.0,-66.44128000666242
+[21:52:27] [Server thread/INFO]: harshcatpirate lost connection: Disconnected
+[21:52:27] [Server thread/INFO]: harshcatpirate left the game
+[21:52:31] [Server thread/INFO]: Erzoslav lost connection: Disconnected
+[21:52:31] [Server thread/INFO]: Erzoslav left the game
